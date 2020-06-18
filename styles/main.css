@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    margin: auto;
+    position: relative;
+}
+.decoration{
+    color: #fff;
+    padding: 80px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 60px;
+    margin: 60px 0 0px 0;
+
+}
+.sem4-se02-robot{
+    background-color: rgb(40, 133, 196);
+}
+
+.sem4-se02-robot:hover{
+    background-color: green;
+}
+
+.sem4-se03{
+    background-color: hotpink;
+
+}
+.sem4-se03:hover{
+    background-color: rgb(201, 233, 20);
+}
+.sem5-se01{
+    background-color: rgba(144, 75, 255, 0.74);
+
+}
+.sem5-se01:hover{
+    background-color: rgb(121, 122, 111);
+}
+.sem5-se02{
+    background-color:#F5B041;
+
+}
+.sem5-se02:hover{
+    background-color: #99A3A4;
+}
+.sem5-se03{
+    background-color: rgba(8, 161, 8, 0.74);
+    margin-bottom: 60px;
+
+}
+.sem5-se03:hover{
+    background-color: rgb(226, 139, 25);
+}
+
